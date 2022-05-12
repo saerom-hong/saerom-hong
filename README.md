@@ -1,9 +1,4 @@
-# Hi there👋 I'm Saerom, a self-taught frontend developer
-
-
-- 🔥 I’m looking for **new job opportunities**
-- 🎓 Currently I'm learning more about React.js, TypeScript and Node.js
-
+# Hi there👋 I'm Saerom.
 
 ### 📪 Feel free to reach out to me! 
 
