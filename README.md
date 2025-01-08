@@ -7,9 +7,9 @@
 #### :whale2: My Skills... 
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS/HTML-white?style=for-the-badge&logo=Css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodejs&logoColor=white">  
   <img src="https://img.shields.io/badge/Webpack-3178C6?style=for-the-badge&logo=webpack&logoColor=black">
