@@ -33,6 +33,13 @@
 <img src="https://img.shields.io/badge/Jenkins-green?style=for-the-badge&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
+<br/><br/> 
+
+#### 📖 Currently I'm learning...
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pixijs-E72264?style=for-the-badge&logo=pixijs&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+
 <br/><br/>  
 #### :honeybee:
 
